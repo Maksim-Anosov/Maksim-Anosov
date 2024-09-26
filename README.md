@@ -34,4 +34,10 @@
 <a href="https://vk.com/id46614753" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" height="35" alt="vk logo"/>
 </a>  
+</div>
+
+## <div align="center">Github Stats</div>   
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maksim-Anosov&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
 </div>  
+
