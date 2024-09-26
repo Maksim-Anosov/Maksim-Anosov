@@ -28,7 +28,7 @@
 <a href="https://t.me/AnsaksS" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="35" alt="telegram logo"/>
 </a>
-<a href="coach.anosov.fh@gmail.com" target="_blank">
+<a href="mailto:coach.anosov.fh@gmail.com" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="35" alt="gmail logo"/>
 </a>  
 </div>  
