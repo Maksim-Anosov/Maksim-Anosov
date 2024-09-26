@@ -31,4 +31,7 @@
 <a href="mailto:coach.anosov.fh@gmail.com" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="35" alt="gmail logo"/>
 </a>  
+<a href="https://vk.com/id46614753" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" height="35" alt="vk logo"/>
+</a>  
 </div>  
