@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,react,redux,nodejs,git,npm,yarn,webpack,vite,jest,cypress,figma,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,react,redux,nodejs,git,npm,yarn,webpack,vite,jest,cypress,figma,docker,vscode&perline=9)](https://skillicons.dev)
 
 </div>
 
