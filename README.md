@@ -2,7 +2,7 @@
   <img height="150" width="450" src="https://media.tenor.com/yKjWLIFsJkEAAAAi/hello-hi.gif"/>
 </div>
 
-# <div align="center">Привет!<img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/9cc49ce8b351e5b441ef8f1c449bf670ecb755774cc7e8e4fa6c7b6b40639709.gif" height="35"/>Меня зовут Максим!</div>
+# <div align="center">tech stack</div>
 
 <div align="center">
   
@@ -10,7 +10,7 @@
 
 </div>
 
-## <div align="center">Контакты</div>
+# <div align="center">contacts</div>
 
 <div align="center">
 <a href="https://t.me/AnsaksS" target="_blank">
